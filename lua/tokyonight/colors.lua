@@ -32,7 +32,7 @@ M.default = {
   green1 = "#73daca",
   green2 = "#41a6b5",
   teal = "#1abc9c",
-  red = "##ea6962",
+  red = "#ea6962",
   red1 = "#db4b4b",
   git = { change = "#6183bb", add = "#449dab", delete = "#914c54" },
   gitSigns = {
